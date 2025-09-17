@@ -1,5 +1,5 @@
 # Data Analysis With Python
-IBM Professional Certificate in Data Science Course 9: 12 x Labs
+IBM Professional Certificate in Data Science Course 7: 12 x Labs
 ## Module 1
  * Course7_M1_L1: Data Importing - Used Cars
  * Course7_M1_L2: Data Importing - Laptops
